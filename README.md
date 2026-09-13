@@ -6,7 +6,7 @@ A modern MERN stack job portal connecting job seekers with employers.
 
 ## 📖 About
 
-HireLoop is a full-stack job portal built with the MERN stack. It has three user
+HireLoop is a full-stack Intregrated job portal built with the MERN stack. It has three user
 roles — **Job Seeker**, **Employer**, and **Admin** — each with their own dashboard
 and features.
 
