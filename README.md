@@ -1,4 +1,4 @@
-# HireLoop – Job Portal
+# HireLoop – Intregrated Job Portal
 
 A modern MERN stack job portal connecting job seekers with employers.
 
